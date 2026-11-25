@@ -1,6 +1,5 @@
 # Ritz TwinTrend Adaptive - MQL5 Market overview
 
-Copy the blocks below into the product form. Block 1 is the short description, block 2 is the full description (English, as the Market expects), block 3 is an optional Indonesian version.
 
 ---
 
